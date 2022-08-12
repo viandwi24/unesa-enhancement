@@ -1,0 +1,55 @@
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.w-1\/4 {
+  width: 25%;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-xl {
+  font-size: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
